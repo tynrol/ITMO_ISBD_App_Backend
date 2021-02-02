@@ -2,3 +2,4 @@
 /main/migrations
 /venv
 manage.py
+.idea
